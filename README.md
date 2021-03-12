@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuNaTIIck
-- 👀 I’m interested in ...
+- 👀 I’m interested in create
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anyone
+- 💞️ I’m looking to collaborate on hackerman
 
 <!---
 LuNaTIIck/LuNaTIIck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
